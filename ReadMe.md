@@ -11,9 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=ksasanka11&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ksasanka11&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ksasanka11&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+<!-- 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ksasanka11&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ksasanka11&theme=darkhub&no-frame=true&no-bg=false&margin-w=4) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ksasanka11&icon=2&color=6)](https://visitcount.itsvg.in)
